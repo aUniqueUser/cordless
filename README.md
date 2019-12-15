@@ -24,7 +24,7 @@
 ## Overview
 
 - [Credits](#credits)
-- [Fork Roadmap](#fork roadmap)
+- [Fork Roadmap](#fork-roadmap)
 - [How to install it](#how-to-install-it)
 - [Installing on Linux](#installing-on-linux)
   - [Snap](#snap)
