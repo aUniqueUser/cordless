@@ -24,6 +24,7 @@
 ## Overview
 
 - [Credits](#credits)
+- [Fork Roadmap](#fork roadmap)
 - [How to install it](#how-to-install-it)
 - [Installing on Linux](#installing-on-linux)
   - [Snap](#snap)
@@ -56,6 +57,13 @@ For those who don't want to use paypal but still donate, here's my ETH wallet pu
 0x49939106563a9de8a777Cf5394149423b1dFd970
 
 ![Demo Screenshot](.github/images/chat-demo.png)
+
+## Fork roadmap
+
+### In this fork i plan to add
+* Vim keys.
+* i3-style keys.
+* Support for transparency with xcompmgr.
 
 ## Credits
 
