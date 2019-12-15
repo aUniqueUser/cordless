@@ -60,7 +60,7 @@ For those who don't want to use paypal but still donate, here's my ETH wallet pu
 
 ## Fork roadmap
 
-### In this fork i plan to add
+### In this fork I plan to add
 * Vim keys.
 * i3-style keys.
 * Support for transparency with xcompmgr.
